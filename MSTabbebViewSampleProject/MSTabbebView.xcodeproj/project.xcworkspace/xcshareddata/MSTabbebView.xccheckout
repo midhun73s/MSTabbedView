@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>117CCD5A-FF07-438B-914E-D9985468D1B0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MSTabbebView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5B305EC2-E793-4CB1-801F-202F1AD69064</key>
+		<string>https://github.com/midhun73s/MSTabbedView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MSTabbebViewSampleProject/MSTabbebView.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5B305EC2-E793-4CB1-801F-202F1AD69064</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/midhun73s/MSTabbedView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5B305EC2-E793-4CB1-801F-202F1AD69064</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5B305EC2-E793-4CB1-801F-202F1AD69064</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MSTabbedView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
